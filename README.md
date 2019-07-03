@@ -1,5 +1,5 @@
 # Comparing 90s, 2000s, and 2010s movies<br>
-<br>
+
 ## Premise:<br>
 Has the quality of comedy movies / drama movies declined over the last 3 decades?
 
